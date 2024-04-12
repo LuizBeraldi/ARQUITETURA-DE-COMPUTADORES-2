@@ -1,6 +1,6 @@
 .data
 
-prompt1: .asciiz "Informe o nome arquivo: "  # deixei um txt pronto como "palmeiras.txt" para o senhor ja testar
+prompt1: .asciiz "Informe o nome arquivo: "
 ArquivoEnt: .space 32
 ArquivoSai: .asciiz "saida.txt"
 Buffer: .asciiz " "
